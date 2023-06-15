@@ -1,0 +1,61 @@
+@media screen and (min-width:1440px) {
+        header{
+        margin-top: 55px;
+        gap: 62%;
+    }
+    main{
+        width: 1440px;
+    }
+    .tm-kb{
+        margin-left: 145px;
+        gap: 125px;
+    }
+    .kb img{
+        width: 540px;
+        height: 480px;
+    }
+    .imgs-mwk{
+        display: flex;
+        flex-direction: row;
+    }
+    .imgs{
+        margin-left: 120px;
+        gap: 40px;
+    }
+    .mwk{
+        width: 260px;
+        flex-direction: column;
+        align-items: start;
+        margin-right: 200px;
+        justify-content: center;
+        gap: 27px;
+    }
+    .mkw p{
+        width: 255px;
+    }
+    .orr{
+        display: none;
+    }
+    .orr2{
+        display: block;
+    }
+    .cream2{
+       display: none;
+    }
+    .cream3{
+        display: block;
+    }
+    .boxes{
+        margin-top: 58px;
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+    }
+    .hc p{
+        width: 255px;
+    }
+    h1{
+        font-size: 56px;
+        line-height: 56px;
+    }
+}
